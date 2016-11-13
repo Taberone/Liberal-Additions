@@ -19,7 +19,7 @@ Desert Eagle and .44 Mag get armor piercing of 5 instead of 4
 !Conservative Armoury Expansion: 
 Gang Units can now use AR-15, .45 Pistol, .357, and .44 Mag
 Deathsquads can use the AA-12, M249, P90, Five SeveN .44 Mag, .357, .454, .45-70, and Desert Eagle. 
-CEOs get the Five SeveN, .357, .454, .45-70, and .44 Mag. 
+CEOs get the Five SeveN, .357, .454, .45-70, .44 Mag, and disguised weapons.
 Agents get the .45, Five SeveN, P90, M249, AA-12, Auto 9mm and .45, Tommy Gun, .357, .454, .45-70, Desert Eagle, any of the disguised weapons, and akimbo pistols. 
 Secret Service gets the .45, Five SeveN, and P90, 
 CCS Bosses can now use a M249, and Flamethrower
