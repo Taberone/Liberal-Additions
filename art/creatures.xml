@@ -454,7 +454,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <psychology>1-4</psychology>
             <rifle>1-4</rifle>
             <shotgun>1-4</shotgun>
-			<smg>1-2</smg>
+			<smg>1-4</smg>
         </skills>
     </creaturetype>
 
