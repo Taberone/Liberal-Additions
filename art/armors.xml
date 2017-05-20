@@ -102,18 +102,6 @@
         <appropriate_weapon>WEAPON_CARBINE_M4</appropriate_weapon>
         <appropriate_weapon>WEAPON_AUTORIFLE_M16</appropriate_weapon>
         <appropriate_weapon>WEAPON_SEMIRIFLE_AR15</appropriate_weapon>
-		<appropriate_weapon>WEAPON_M249_MACHINEGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_GRENADE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SHOTGUN_PUMP</appropriate_weapon>
-		<appropriate_weapon>WEAPON_FIVESEVEN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SMG_P90</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>6</qualitylevels>
     </armortype>
 
@@ -136,13 +124,6 @@
         <appropriate_weapon>WEAPON_CARBINE_M4</appropriate_weapon>
         <appropriate_weapon>WEAPON_AUTORIFLE_M16</appropriate_weapon>
         <appropriate_weapon>WEAPON_SEMIRIFLE_AR15</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>2</qualitylevels>
     </armortype>
 
@@ -158,14 +139,6 @@
         <fencevalue>50</fencevalue>
         <professionalism>1</professionalism>
         <stealth_value>3</stealth_value>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_JOHN_WOO</appropriate_weapon>
         <qualitylevels>3</qualitylevels>
     </armortype>
 
@@ -181,14 +154,6 @@
         </interrogation>
         <professionalism>3</professionalism>
         <stealth_value>2</stealth_value>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_JOHN_WOO</appropriate_weapon>
         <qualitylevels>2</qualitylevels>
     </armortype>
 
@@ -223,6 +188,7 @@
         </interrogation>
         <professionalism>2</professionalism>
         <stealth_value>2</stealth_value>
+        <appropriate_weapon>WEAPON_GAVEL</appropriate_weapon>
         <qualitylevels>2</qualitylevels>
     </armortype>
 
@@ -238,14 +204,6 @@
         </interrogation>
         <professionalism>3</professionalism>
         <stealth_value>2</stealth_value>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_JOHN_WOO</appropriate_weapon>
         <qualitylevels>2</qualitylevels>
     </armortype>
 
@@ -317,13 +275,6 @@
         <professionalism>2</professionalism>
         <appropriate_weapon>WEAPON_AXE</appropriate_weapon>
         <appropriate_weapon>WEAPON_FLAMETHROWER</appropriate_weapon> <!-- Only if free speech -2. -->
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>2</qualitylevels>
         <durability>25</durability>
     </armortype>
@@ -395,7 +346,7 @@
         <interrogation>
             <basepower>8</basepower>
             <assaultbonus>6</assaultbonus>
-			<drugbonus>4</drugbonus>
+			<drugbonus>4</drugbonus> <!-- Liberal Additions -->
         </interrogation>
         <professionalism>1</professionalism>
         <stealth_value>1</stealth_value>
@@ -403,19 +354,6 @@
         <appropriate_weapon>WEAPON_CARBINE_M4</appropriate_weapon>
         <appropriate_weapon>WEAPON_AUTORIFLE_M16</appropriate_weapon>
         <appropriate_weapon>WEAPON_SEMIRIFLE_AR15</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SHOTGUN_AA12</appropriate_weapon>
-		<appropriate_weapon>WEAPON_DESERT_EAGLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_REVOLVER_44</appropriate_weapon>
-		<appropriate_weapon>WEAPON_M249_MACHINEGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_FIVESEVEN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SMG_P90</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>1</qualitylevels>
     </armortype>
 
@@ -508,14 +446,15 @@
         </armor>
         <body_covering>
             <head>true</head>
+			<conceals_face>true</conceals_face> <!-- Liberal Additions -->
         </body_covering>
         <name>Heavy Ceramic Armor</name>
         <shortname>HeavyBodyArmor</shortname>
         <fencevalue>400</fencevalue>
         <interrogation>
-            <basepower>10</basepower>
-			<assaultbonus>8</assaultbonus>
-			<drugbonus>6</drugbonus>
+            <basepower>10</basepower> <!-- Liberal Additions: It's intimidating as heck -->
+			<assaultbonus>8</assaultbonus> <!-- Liberal Additions: You do NOT want some heavily armoured monster beating the tar out of you -->
+			<drugbonus>6</drugbonus> <!-- Liberal Additions -->
         </interrogation>
         <professionalism>1</professionalism>
         <qualitylevels>7</qualitylevels>
@@ -534,13 +473,6 @@
         <professionalism>2</professionalism>
         <stealth_value>1</stealth_value>
         <appropriate_weapon>WEAPON_SYRINGE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>3</qualitylevels>
     </armortype>
 
@@ -627,7 +559,7 @@
         <make_difficulty>11</make_difficulty>
         <make_price>1000</make_price>
         <armor>
-            <body>6</body>
+            <body>7</body>
         </armor>
         <body_covering>
             <arms>false</arms>
@@ -645,19 +577,10 @@
         <appropriate_weapon>WEAPON_REVOLVER_38</appropriate_weapon>
         <appropriate_weapon>WEAPON_REVOVLER_44</appropriate_weapon>
         <appropriate_weapon>WEAPON_DESERT_EAGLE</appropriate_weapon>
-        <appropriate_weapon>WEAPON_SEMIPISTOL_9MM</appropriate_weapon>
-        <appropriate_weapon>WEAPON_SEMIPISTOL_45</appropriate_weapon>
+        <appropriate_weapon>WEAPON_PISTOL_9MM</appropriate_weapon>
+        <appropriate_weapon>WEAPON_PISTOL_45</appropriate_weapon>
         <appropriate_weapon>WEAPON_NIGHTSTICK</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SMG_MP5</appropriate_weapon>
         <appropriate_weapon>WEAPON_SHOTGUN_PUMP</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SEMIRIFLE_AR15</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>5</qualitylevels>
     </armortype>
 
@@ -679,18 +602,10 @@
         <appropriate_weapon>WEAPON_REVOLVER_38</appropriate_weapon>
         <appropriate_weapon>WEAPON_REVOVLER_44</appropriate_weapon>
         <appropriate_weapon>WEAPON_DESERT_EAGLE</appropriate_weapon>
-        <appropriate_weapon>WEAPON_SEMIPISTOL_9MM</appropriate_weapon>
-        <appropriate_weapon>WEAPON_SEMIPISTOL_45</appropriate_weapon>
+        <appropriate_weapon>WEAPON_PISTOL_9MM</appropriate_weapon>
+        <appropriate_weapon>WEAPON_PISTOL_45</appropriate_weapon>
         <appropriate_weapon>WEAPON_NIGHTSTICK</appropriate_weapon>
         <appropriate_weapon>WEAPON_SHOTGUN_PUMP</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SEMIRIFLE_AR15</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>1</qualitylevels>
     </armortype>
 
@@ -720,18 +635,6 @@
         <appropriate_weapon>WEAPON_AUTORIFLE_M16</appropriate_weapon>
         <appropriate_weapon>WEAPON_SEMIRIFLE_AR15</appropriate_weapon>
         <appropriate_weapon>WEAPON_CARBINE_M4</appropriate_weapon>
-		<appropriate_weapon>WEAPON_M249_MACHINEGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SMG_P90</appropriate_weapon>
-		<appropriate_weapon>WEAPON_FIVESEVEN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SHOTGUN_AA12</appropriate_weapon>
-		<appropriate_weapon>WEAPON_GRENADE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>6</qualitylevels>
     </armortype>
 
@@ -752,18 +655,11 @@
         <appropriate_weapon>WEAPON_REVOLVER_38</appropriate_weapon>
         <appropriate_weapon>WEAPON_REVOVLER_44</appropriate_weapon>
         <appropriate_weapon>WEAPON_DESERT_EAGLE</appropriate_weapon>
-        <appropriate_weapon>WEAPON_SEMIPISTOL_9MM</appropriate_weapon>
-        <appropriate_weapon>WEAPON_SEMIPISTOL_45</appropriate_weapon>
+        <appropriate_weapon>WEAPON_PISTOL_9MM</appropriate_weapon>
+        <appropriate_weapon>WEAPON_PISTOL_45</appropriate_weapon>
         <appropriate_weapon>WEAPON_NIGHTSTICK</appropriate_weapon>
         <appropriate_weapon>WEAPON_SMG_MP5</appropriate_weapon> <!-- Only if gun law -2. -->
         <appropriate_weapon>WEAPON_CARBINE_M4</appropriate_weapon> <!-- Only if gun law -2. -->
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>2</qualitylevels>
     </armortype>
 
@@ -799,16 +695,6 @@
         <stealth_value>1</stealth_value>
         <appropriate_weapon>WEAPON_SMG_MP5</appropriate_weapon>
         <appropriate_weapon>WEAPON_CARBINE_M4</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SHOTGUN_PUMP</appropriate_weapon>
-		<appropriate_weapon>WEAPON_SMG_P90</appropriate_weapon>
-		<appropriate_weapon>WEAPON_FIVESEVEN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_9MM</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_45</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BRIEFCASE_5.7</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SHOTGUN</appropriate_weapon>
-		<appropriate_weapon>WEAPON_UMBRELLA_RIFLE</appropriate_weapon>
-		<appropriate_weapon>WEAPON_CANE_SWORD</appropriate_weapon>
-		<appropriate_weapon>WEAPON_BOOK_45</appropriate_weapon>
         <qualitylevels>5</qualitylevels>
     </armortype>
 

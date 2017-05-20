@@ -185,12 +185,5 @@
 			<letter>d</letter>
 			<price>500</price>
 		</item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a Gas Tank</description>
-            <type>CLIP_GASOLINE</type>
-            <letter></letter>
-            <price>100</price>
-        </item>
     </department>
 </shop>

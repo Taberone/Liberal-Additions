@@ -33,7 +33,7 @@
     
     -->
     <only_sell_legal_items>false</only_sell_legal_items>
-    <fullscreen>false</fullscreen>
+    <fullscreen>true</fullscreen> <!-- Liberal Additions: Not enough space for EVERYTHING. Gangsters and mercenaries sell everything now. Selling not allowed because it would make pawnshop worthless. -->
     <allow_selling>false</allow_selling>
     <increase_prices_with_illegality>true</increase_prices_with_illegality>
     <exit>Leave</exit>
@@ -75,140 +75,75 @@
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_AIRSOFT_RIFLE</type>
-            <price>100</price>
+            <type>WEAPON_SHOTGUN_PUMP</type>
+            <price>400</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_AIRSOFT_PISTOL</type>
-            <price>100</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_AIRSOFT_SHOTGUN</type>
-            <price>100</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_AIRSOFT_SMG</type>
-            <price>100</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_AIRSOFT_LMG</type>
-            <price>100</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_DESERT_EAGLE</type>
+            <type>WEAPON_DESERT_EAGLE</type> <!-- Liberal Additions -->
             <price>1500</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_FLAMETHROWER</type>
+            <type>WEAPON_FLAMETHROWER</type> <!-- Liberal Additions -->
             <price>15000</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_SPRAYCANFLAMETHROWER</type>
-            <price>100</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_M249_MACHINEGUN</type>
+            <type>WEAPON_M249_MACHINEGUN</type> <!-- Liberal Additions -->
             <price>15000</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_MOLOTOV</type>
+            <type>WEAPON_MOLOTOV</type> <!-- Liberal Additions -->
             <price>40</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_AUTORIFLE_M16</type>
+            <type>WEAPON_AUTORIFLE_M16</type> <!-- Liberal Additions -->
             <price>1500</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_GRENADE</type>
+            <type>WEAPON_GRENADE</type> <!-- Liberal Additions -->
             <price>500</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_CARBINE_M4</type>
+            <type>WEAPON_CARBINE_M4</type> <!-- Liberal Additions -->
             <price>1400</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_SMG_P90</type>
+            <type>WEAPON_SMG_P90</type> <!-- Liberal Additions -->
             <price>1500</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_SEMIRIFLE_AR15</type>
+            <type>WEAPON_SEMIRIFLE_AR15</type> <!-- Liberal Additions -->
             <price>450</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_SHOTGUN_AA12</type>
+            <type>WEAPON_SHOTGUN_AA12</type> <!-- Liberal Additions -->
             <price>1500</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_FIVESEVEN</type>
+            <type>WEAPON_FIVESEVEN</type> <!-- Liberal Additions -->
             <price>1500</price>
         </item>
 		<item>
             <class>WEAPON</class>
-            <type>WEAPON_REVOLVER_38</type>
+            <type>WEAPON_REVOLVER_38</type> <!-- Liberal Additions -->
             <price>150</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_SMG_TOMMYGUN</type>
-            <price>1200</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_M72LAW</type>
-            <price>1800</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_ANTITANK</type>
-            <price>2500</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_REVOLVER_357</type>
-            <price>1000</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_REVOLVER_454</type>
-            <price>1600</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_REVOLVER_45-70</type>
-            <price>2000</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_AUTOPISTOL_45</type>
-            <price>800</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <type>WEAPON_AUTOPISTOL_9MM</type>
-            <price>700</price>
         </item>
     </department>
     
     <department>
         <entry>Buy Liberal Clips</entry>
         <letter>c</letter>
-        <fullscreen>false</fullscreen>
+        <fullscreen>true</fullscreen> <!-- Liberal Additions: Not enough space for M249 Drum -->
         <exit>Done buying Liberal clips</exit>
         <item>
             <class>CLIP</class>
@@ -262,112 +197,30 @@
 		<item>
             <class>CLIP</class>
             <description>Buy a 5.7 Mag</description>
-            <type>CLIP_5.7</type>
+            <type>CLIP_5.7</type> <!-- Liberal Additions -->
             <letter></letter>
             <price>50</price>
         </item>
 		<item>
             <class>CLIP</class>
             <description>Buy a M249 Drum</description>
-            <type>CLIP_DRUM</type>
+            <type>CLIP_DRUM</type> <!-- Liberal Additions -->
             <letter></letter>
             <price>500</price>
         </item>
 		<item>
             <class>CLIP</class>
             <description>Buy a Gas Tank</description>
-            <type>CLIP_GASOLINE</type>
+            <type>CLIP_GASOLINE</type> <!-- Liberal Additions -->
             <letter></letter>
             <price>100</price>
         </item>
-    </department>
-	
-	<department>
-        <entry>Buy Other Liberal Clips</entry>
-        <fullscreen>false</fullscreen>
-        <exit>Done buying Other Liberal clips</exit>
-        <item>
+		<item>
             <class>CLIP</class>
-            <description>Buy a Tommy Gun Drum</description>
-            <type>CLIP_TOMMY</type>
+            <description>Buy an AA-12 Drum</description>
+            <type>CLIP_DRUM_AA12</type> <!-- Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know. -->
             <price>50</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy 66mm Rockets</description>
-            <type>CLIP_ROCKET</type>
-            <price>1000</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy Anti-Tank Rounds</description>
-            <type>CLIP_ANTITANK</type>
-            <price>2000</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .357 Speedloader</description>
-            <type>CLIP_357</type>
-            <price>30</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .454 Speedloader</description>
-            <type>CLIP_454</type>
-            <price>50</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .45-70 Speedloader</description>
-            <type>CLIP_45-70</type>
-            <price>60</price>
-        </item>
-    </department>
-	
-	<department>
-        <entry>Buy Liberal Tools</entry>
-        <fullscreen>false</fullscreen>
-        <exit>Done buying Liberal tools</exit>
-        <item>
-            <class>WEAPON</class>
-            <description>Buy a Crowbar</description>
-            <type>WEAPON_CROWBAR</type>
-            <letter>c</letter>
-            <price>20</price>
-        </item>
-        <item>
-            <class>WEAPON</class>
-            <description>Buy Spray Paint</description>
-            <type>WEAPON_SPRAYCAN</type>
-            <letter>s</letter>
-            <price>20</price>
-        </item>
-        <item>
-            <class>WEAPON</class>
-            <description>Buy a Guitar</description>
-            <type>WEAPON_GUITAR</type>
-            <letter>g</letter>
-            <price>200</price>
-        </item>
-        <item>
-            <class>WEAPON</class>
-            <description>Buy Bottle, Rag &amp; Gasoline</description>
-            <type>WEAPON_MOLOTOV</type>
-            <letter>m</letter>
-            <price>40</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-            <description>Buy Throwing Knives</description>
-            <type>WEAPON_THROWINGKNIFE</type>
-            <price>20</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-			<description>Buy a Paintball Gun</description>
-            <type>WEAPON_PAINTBALLGUN</type>
-            <price>100</price>
-        </item>
+        </item> 
     </department>
 
 </shop>

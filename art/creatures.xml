@@ -238,19 +238,8 @@ Elements marked as hardcoded may have their values overridden by the game.
         <type_name>Corporate CEO</type_name>
         <!-- <encounter_name> Hardcoded -->
         <weapon>WEAPON_DESERT_EAGLE</weapon>
-		<weapon>WEAPON_FIVESEVEN</weapon>
-		<weapon>WEAPON_REVOLVER_44</weapon>
-		<weapon>WEAPON_REVOLVER_357</weapon>
-		<weapon>WEAPON_REVOLVER_454</weapon>
-		<weapon>WEAPON_REVOLVER_4570</weapon>
-		<weapon>WEAPON_BRIEFCASE_9MM</weapon>
-		<weapon>WEAPON_CANE_SHOTGUN</weapon>
-		<weapon>WEAPON_UMBRELLA_RIFLE</weapon>
-		<weapon>WEAPON_CANE_SWORD</weapon>
-		<weapon>WEAPON_BRIEFCASE_45</weapon>
-		<weapon>WEAPON_BRIEFCASE_5.7</weapon>
-		<weapon>WEAPON_BOOK_45</weapon>
-		<weapon>WEAPON_JOHN_WOO</weapon>
+		<weapon>WEAPON_REVOLVER_44</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_FIVESEVEN</weapon> <!-- Liberal Additions -->
         <armor>ARMOR_EXPENSIVESUIT</armor>
         <age>MIDDLEAGED</age>
         <alignment>CONSERVATIVE</alignment>
@@ -433,8 +422,8 @@ Elements marked as hardcoded may have their values overridden by the game.
         </weapon>
         <weapon>WEAPON_SHOTGUN_PUMP</weapon>
         <weapon>WEAPON_CARBINE_M4</weapon>
-		<weapon>WEAPON_SMG_P90</weapon>
-		<weapon>WEAPON_FIVESEVEN</weapon>
+		<weapon>WEAPON_FIVESEVEN</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SMG_P90</weapon> <!-- Liberal Additions -->
         <armor>ARMOR_SWATARMOR</armor>
         <age>MATURE</age>
         <alignment>CONSERVATIVE</alignment>
@@ -454,7 +443,6 @@ Elements marked as hardcoded may have their values overridden by the game.
             <psychology>1-4</psychology>
             <rifle>1-4</rifle>
             <shotgun>1-4</shotgun>
-			<smg>1-4</smg>
         </skills>
     </creaturetype>
 
@@ -465,39 +453,31 @@ Elements marked as hardcoded may have their values overridden by the game.
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_SHOTGUN_AA12</type>
+            <type>WEAPON_SHOTGUN_AA12</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_DESERT_EAGLE</type>
+            <type>WEAPON_DESERT_EAGLE</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_REVOLVER_44</type>
+            <type>WEAPON_M249_MACHINEGUN</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_M249_MACHINEGUN</type>
+            <type>WEAPON_FIVESEVEN</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_FIVESEVEN</type>
+            <type>WEAPON_SMG_P90</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_SMG_P90</type>
+            <type>WEAPON_GRENADE</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_REVOLVER_357</type>
-            <number_clips>7</number_clips>
-        </weapon>
-		<weapon>
-            <type>WEAPON_REVOLVER_454</type>
-            <number_clips>7</number_clips>
-        </weapon>
-		<weapon>
-            <type>WEAPON_REVOLVER_4570</type>
+            <type>WEAPON_REVOLVER_44</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
         <armor>ARMOR_DEATHSQUADUNIFORM</armor>
@@ -519,8 +499,9 @@ Elements marked as hardcoded may have their values overridden by the game.
             <psychology>2-5</psychology>
             <rifle>2-5</rifle>
             <shotgun>1-2</shotgun>
-			<heavyweapons>1-2</heavyweapons>
-			<smg>1-2</smg>
+			<heavyweapons>1-2</heavyweapons> <!-- Liberal Additions -->
+			<smg>1-2</smg> <!-- Liberal Additions -->
+			<throwing>1-2</throwing> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -572,10 +553,9 @@ Elements marked as hardcoded may have their values overridden by the game.
         <weapon>WEAPON_SMG_MP5</weapon>
         <weapon>WEAPON_SHOTGUN_PUMP</weapon>
         <weapon>WEAPON_SEMIPISTOL_9MM</weapon>
-		<weapon>WEAPON_SEMIRIFLE_AR15</weapon>
-		<weapon>WEAPON_REVOLVER_44</weapon>
-		<weapon>WEAPON_SEMIPISTOL_45</weapon>
-		<weapon>WEAPON_REVOLVER_357</weapon>
+		<weapon>WEAPON_SEMIPISTOL_45</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SEMIRIFLE_AR15</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_REVOLVER_44</weapon> <!-- Liberal Additions -->
         <armor>ARMOR_POLICEARMOR</armor>
         <age>YOUNGADULT</age>
         <alignment>CONSERVATIVE</alignment>
@@ -595,7 +575,6 @@ Elements marked as hardcoded may have their values overridden by the game.
             <psychology>2-5</psychology>
             <rifle>1-3</rifle>
             <shotgun>1-3</shotgun>
-			<smg>1-2</smg>
         </skills>
     </creaturetype>
 
@@ -650,26 +629,15 @@ Elements marked as hardcoded may have their values overridden by the game.
         <weapon>WEAPON_SHOTGUN_PUMP</weapon>
         <weapon>WEAPON_CARBINE_M4</weapon>
         <weapon>WEAPON_SMG_MP5</weapon>
-		<weapon>WEAPON_DESERT_EAGLE</weapon>
-		<weapon>WEAPON_SEMIPISTOL_45</weapon>
-		<weapon>WEAPON_FIVESEVEN</weapon>
-		<weapon>WEAPON_SMG_P90</weapon>
-		<weapon>WEAPON_M249_MACHINEGUN</weapon>
-		<weapon>WEAPON_SHOTGUN_AA12</weapon>
-		<weapon>WEAPON_AUTOPISTOL_9MM</weapon>
-		<weapon>WEAPON_AUTOPISTOL_45</weapon>
-		<weapon>WEAPON_SMG_TOMMYGUN</weapon>
-		<weapon>WEAPON_REVOLVER_357</weapon>
-		<weapon>WEAPON_REVOLVER_454</weapon>
-		<weapon>WEAPON_REVOLVER_4570</weapon>
-		<weapon>WEAPON_BRIEFCASE_9MM</weapon>
-		<weapon>WEAPON_CANE_SHOTGUN</weapon>
-		<weapon>WEAPON_UMBRELLA_RIFLE</weapon>
-		<weapon>WEAPON_CANE_SWORD</weapon>
-		<weapon>WEAPON_BRIEFCASE_45</weapon>
-		<weapon>WEAPON_BRIEFCASE_5.7</weapon>
-		<weapon>WEAPON_BOOK_45</weapon>
-		<weapon>WEAPON_JOHN_WOO</weapon>
+		<weapon>WEAPON_GRENADE</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_DESERT_EAGLE</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SEMIPISTOL_45</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SHOTGUN_AA12</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_M249_MACHINEGUN</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SMG_P90</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_FIVESEVEN</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_DAISHO</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SWORD</weapon> <!-- Liberal Additions -->
         <armor>ARMOR_BLACKSUIT</armor>
         <age>MATURE</age>
         <alignment>CONSERVATIVE</alignment>
@@ -693,7 +661,9 @@ Elements marked as hardcoded may have their values overridden by the game.
             <rifle>2-9</rifle>
             <shotgun>2-9</shotgun>
             <smg>2-9</smg>
-			<heavyweapons>2-9</heavyweapons>
+			<heavyweapons>2-9</heavyweapons> <!-- Liberal Additions -->
+			<throwing>2-9</throwing> <!-- Liberal Additions -->
+			<sword>2-9</sword> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -703,9 +673,9 @@ Elements marked as hardcoded may have their values overridden by the game.
         <weapon>WEAPON_SEMIPISTOL_9MM</weapon>
         <weapon>WEAPON_AUTORIFLE_M16</weapon>
         <weapon>WEAPON_SMG_MP5</weapon>
-		<weapon>WEAPON_FIVESEVEN</weapon>
-		<weapon>WEAPON_SMG_P90</weapon>
-		<weapon>WEAPON_SEMIPISTOL_45</weapon>
+		<weapon>WEAPON_SEMIPISTOL_45</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SMG_P90</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_FIVESEVEN</weapon> <!-- Liberal Additions -->
         <armor>ARMOR_BLACKSUIT</armor>
         <age>MATURE</age>
         <alignment>CONSERVATIVE</alignment>
@@ -872,7 +842,6 @@ Elements marked as hardcoded may have their values overridden by the game.
         <type_name>Musician</type_name>
         <encounter_name>Musician</encounter_name>
         <weapon>CIVILIAN</weapon>
-		<weapon>WEAPON_GUITAR</weapon>
         <armor>ARMOR_CLOTHES</armor>
         <age>MATURE</age>
         <money>0-10</money>
@@ -1228,17 +1197,17 @@ Elements marked as hardcoded may have their values overridden by the game.
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_SHOTGUN_PUMP</type>
+            <type>WEAPON_SHOTGUN_PUMP</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_M249_MACHINEGUN</type>
+            <type>WEAPON_M249_MACHINEGUN</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
-        </weapon>
+		</weapon>
 		<weapon>
-            <type>WEAPON_GRENADE</type>
+            <type>WEAPON_GRENADE</type> <!-- Liberal Additions -->
             <number_weapons>7</number_weapons>
-        </weapon>
+		</weapon>
         <armor>ARMOR_ARMYARMOR</armor>
         <age>YOUNGADULT</age>
         <alignment>CONSERVATIVE</alignment>
@@ -1258,9 +1227,9 @@ Elements marked as hardcoded may have their values overridden by the game.
             <pistol>1-3</pistol>
             <psychology>1-3</psychology>
             <rifle>1-4</rifle>
-			<heavyweapons>1-3</heavyweapons>
-			<throwing>2-5</throwing>
-			<shotgun>1-3</shotgun>
+			<heavyweapons>1-3</heavyweapons> <!-- Liberal Additions -->
+			<shotgun>1-3</shotgun>  <!-- Liberal Additions -->
+			<throwing>1-3</throwing> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -1741,13 +1710,14 @@ Elements marked as hardcoded may have their values overridden by the game.
             <number_clips>9</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_M249_MACHINEGUN</type>
+            <type>WEAPON_M249_MACHINEGUN</type> <!-- Liberal Additions -->
             <number_clips>9</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_FLAMETHROWER</type>
+            <type>WEAPON_FLAMETHROWER</type> <!-- Liberal Additions -->
             <number_clips>9</number_clips>
         </weapon>
+		<weapon>WEAPON_DAISHO</weapon> <!-- Liberal Additions -->
         <armor>ARMOR_HEAVYARMOR</armor>
         <age>MIDDLEAGED</age>
         <alignment>CONSERVATIVE</alignment>
@@ -1774,7 +1744,8 @@ Elements marked as hardcoded may have their values overridden by the game.
             <religion>2-7</religion>
             <rifle>6-9</rifle>
             <shotgun>6-9</shotgun>
-			<heavyweapons>6-9</heavyweapons>
+			<heavyweapons>6-9</heavyweapons> <!-- Liberal Additions -->
+			<sword>6-9</sword> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -1889,15 +1860,23 @@ Elements marked as hardcoded may have their values overridden by the game.
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_SEMIPISTOL_45</type>
+            <type>WEAPON_SEMIPISTOL_45</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_FIVESEVEN</type>
+            <type>WEAPON_SMG_P90</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
 		<weapon>
-            <type>WEAPON_SMG_P90</type>
+            <type>WEAPON_FIVESEVEN</type> <!-- Liberal Additions -->
+            <number_clips>7</number_clips>
+        </weapon>
+		<weapon>
+            <type>WEAPON_GRENADE</type> <!-- Liberal Additions -->
+            <number_clips>7</number_clips>
+        </weapon>
+		<weapon>
+            <type>WEAPON_SHOTGUN_AA12</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
         <armor>ARMOR_ARMYARMOR</armor>
@@ -1921,17 +1900,18 @@ Elements marked as hardcoded may have their values overridden by the game.
             <rifle>1-3</rifle>
             <shotgun>1-5</shotgun>
             <smg>1-5</smg>
+			<throwing>1-3</throwing> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
     <creaturetype idname="CREATURE_SEAL">
         <type_name>Navy SEAL</type_name>
         <weapon>WEAPON_CARBINE_M4</weapon>
-		<weapon>WEAPON_M249_MACHINEGUN</weapon>
-		<weapon>WEAPON_SMG_P90</weapon>
-		<weapon>WEAPON_FIVESEVEN</weapon>
-		<weapon>WEAPON_SHOTGUN_AA12</weapon>
-		<weapon>WEAPON_GRENADE</weapon>
+		<weapon>WEAPON_SHOTGUN_AA12</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_M249_MACHINEGUN</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_SMG_P90</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_FIVESEVEN</weapon> <!-- Liberal Additions -->
+		<weapon>WEAPON_GRENADE</weapon> <!-- Liberal Additions -->
         <armor>ARMOR_SEALSUIT</armor>
         <age>MATURE</age>
         <alignment>CONSERVATIVE</alignment>
@@ -1950,11 +1930,11 @@ Elements marked as hardcoded may have their values overridden by the game.
             <handtohand>3-5</handtohand>
             <psychology>3-5</psychology>
             <rifle>4-7</rifle>
-			<heavyweapons>1-4</heavyweapons>
-			<throwing>2-5</throwing>
-			<shotgun>1-4</shotgun>
-			<pistol>1-5</pistol>
-			<smg>1-5</smg>
+			<heavyweapons>1-4</heavyweapons> <!-- Liberal Additions -->
+			<shotgun>1-4</shotgun>  <!-- Liberal Additions -->
+			<throwing>1-4</throwing> <!-- Liberal Additions -->
+			<pistol>1-4</pistol> <!-- Liberal Additions -->
+			<smg>1-4</smg> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 

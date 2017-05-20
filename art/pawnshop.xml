@@ -90,8 +90,8 @@
 
     <department>
         <entry>Buy Liberal Clips</entry>
-		<letter>c</letter>
-        <fullscreen>true</fullscreen>
+        <letter>c</letter>
+        <fullscreen>true</fullscreen> <!-- Liberal Additions: Not enough space for the M249 Drum -->
         <exit>Done buying Liberal clips</exit>
         <item>
             <class>CLIP</class>
@@ -141,107 +141,35 @@
             <type>CLIP_SMG</type>
             <letter>s</letter>
             <price>35</price>
-		</item>
+        </item>
 		<item>
-            <class>CLIP</class>
-            <description>Buy a 5.7 Mag</description>
-            <type>CLIP_5.7</type>
+            <class>CLIP</class> 
+            <description>Buy a 5.7 Mag</description> 
+            <type>CLIP_5.7</type> <!-- Liberal Additions -->
             <letter></letter>
             <price>50</price>
         </item>
 		<item>
-            <class>CLIP</class>
+            <class>CLIP</class> 
             <description>Buy a M249 Drum</description>
-            <type>CLIP_DRUM</type>
+            <type>CLIP_DRUM</type> <!-- Liberal Additions -->
             <letter></letter>
             <price>500</price>
         </item>
 		<item>
             <class>CLIP</class>
             <description>Buy a Gas Tank</description>
-            <type>CLIP_GASOLINE</type>
+            <type>CLIP_GASOLINE</type> <!-- Liberal Additions -->
             <letter></letter>
             <price>100</price>
-        </item>
+		</item>
 		<item>
             <class>CLIP</class>
-            <description>Buy a Tommy Gun Drum</description>
-            <type>CLIP_TOMMY</type>
-            <price></price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy 66mm Rockets</description>
-            <type>CLIP_ROCKET</type>
-            <price>1000</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy Anti-Tank Rounds</description>
-            <type>CLIP_ANTITANK</type>
-            <price>2000</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .357 Speedloader</description>
-            <type>CLIP_357</type>
-            <price>30</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .454 Speedloader</description>
-            <type>CLIP_454</type>
+            <description>Buy an AA-12 Drum</description>
+            <type>CLIP_DRUM_AA12</type> <!-- Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know. -->
             <price>50</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .45-70 Speedloader</description>
-            <type>CLIP_45-70</type>
-            <price>60</price>
-        </item>
+        </item> 
     </department>
-	
-	<!-- <department>
-        <entry>Buy Other Liberal Clips</entry>
-        <fullscreen>false</fullscreen>
-        <exit>Done buying Other Liberal clips</exit>
-        <item>
-            <class>CLIP</class>
-            <description>Buy a Tommy Gun Drum</description>
-            <type>CLIP_TOMMY</type>
-            <price></price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy 66mm Rockets</description>
-            <type>CLIP_ROCKET</type>
-            <price>1000</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy Anti-Tank Rounds</description>
-            <type>CLIP_ANTITANK</type>
-            <price>2000</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .357 Speedloader</description>
-            <type>CLIP_357</type>
-            <price>30</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .454 Speedloader</description>
-            <type>CLIP_454</type>
-            <price>50</price>
-        </item>
-		<item>
-            <class>CLIP</class>
-            <description>Buy a .45-70 Speedloader</description>
-            <type>CLIP_45-70</type>
-            <price>60</price>
-        </item>
-    </department> -->
 
     <department>
         <entry>Buy Liberal Tools</entry>
@@ -252,7 +180,7 @@
             <class>WEAPON</class>
             <description>Buy a Crowbar</description>
             <type>WEAPON_CROWBAR</type>
-            <letter>t</letter>
+            <letter>c</letter>
             <price>20</price>
         </item>
         <item>
@@ -275,17 +203,6 @@
             <type>WEAPON_MOLOTOV</type>
             <letter>m</letter>
             <price>40</price>
-        </item>
-		<item>
-            <class>WEAPON</class>
-			<description>Buy a Paintball Gun</description>
-            <type>WEAPON_PAINTBALLGUN</type>
-            <price>100</price>
-		<item>
-            <class>WEAPON</class>
-            <description>Buy Throwing Knives</description>
-            <type>WEAPON_THROWINGKNIFE</type>
-            <price>20</price>
         </item>
     </department>
 
