@@ -1,0 +1,78 @@
+!Police Armor's protection changed from 7 to 6!
+
+!Pitchfork now has 2 Armor Pierce rather than 1
+
+!Agent Cars, Jeeps, Police Cars, Station Wagons, Taxicabs, Vans, and HMMWVs are now buyable. Agent Cars renamed to Supercars, which also have more colors..
+!HMMWVs and Agentcars can be stolen, but hard to find AND they give extra heat like it does for the Police Cruiser. They also have alarm chances added, too.
+
+!Damage/Other Weapon Changes:
+AK47 gets a damage buff(10-251 changed to 10-271), but successive attacks diffuclty increased from 3 to 4. 
+.45 Pistol damage buff. (10-181 changed to 10-191). 
+AA-12 can now Critical Hit. 
+Katana and Sword can now strike twice, but it's harder to do than a knife (6 vs 4 for successive attack difficulty).
+AR-15 has slight accuracy bonus
+MP5 SMG slightly less pathetic - Magazine size changed to 30 instead of 15.
+Increased Armor Piercing for Molotov Cocktail/Flamethrower. People roast all the same whether they're in Super Heavy Armor or naked.
+Increased AP of all knives and swords. Realism! (Armor meant to protect against bullets doesn't protect well against getting stabbed, and stab vests don't exist in LCS...)
+Desert Eagle and .44 Mag get armor piercing of 5 instead of 4
+
+!Conservative Armoury Expansion: 
+Gang Units can now use AR-15, .45 Pistol, .357, and .44 Mag
+Deathsquads can use the AA-12, M249, P90, Five SeveN .44 Mag, .357, .454, .45-70, and Desert Eagle. 
+CEOs get the Five SeveN, .357, .454, .45-70, .44 Mag, and disguised weapons.
+Agents get the .45, Five SeveN, P90, M249, AA-12, Auto 9mm and .45, Tommy Gun, .357, .454, .45-70, Desert Eagle, any of the disguised weapons, and akimbo pistols. 
+Secret Service gets the .45, Five SeveN, and P90, 
+CCS Bosses can now use a M249, and Flamethrower
+Military Police gets a .45, P90, and Five SeveN,
+Soldiers get a Shotgun, M249, and Grenade
+SEALs get a P90, Five SeveN, AA-12, Grenade, and M249,
+SWAT gets the P90 and Five SeveN
+
+!P90 and Five SeveN added. P90/FiveSeveN is basically a MP5/.38 Revolver but buffed to have the same armor piercing as an assault rifle(7). Both the P90 and Five SeveN share 5.7 "clips"(should be Magazines though). SMGs and Pistols are no longer worthless now that they can actually compete with the rifles now, hopefully. Secret Service Agents have these two weapons added to their armory.
+
+!Conservative Skill Expansion: Since Conservatives spawn with new guns now, they get new skills to kick your ass with(But it's not as high as the skill for their main weapon):
+Added Heavy Weapons skill to CCS Bosses/Soldiers/SEALs/Agents/Deathsquads to go along with them potentially spawning with a M249.
+Throwing/Pistol/Shotgun/SMG for SEALs, although it's not as high as their Rifle skill
+Throwing/Shotgun for Soldiers since they use Nades/Shotgun now
+SMG/Shotgun for Deathsquads
+SMG for SWAT
+
+!Spraycan Flamethrower added. Same damage as the molotov and easier to get than a real flamethrower. Gasoline "Clip" also gets capacity upgraded to 3 instead of 2. Buy it and the ammo from gangsters.
+
+!Paintball Gun(Uses the Art skill) and Airsoft Gun(in Rifle/Pistol/SMG/Shotgun/LMG Form) added. Airsoft Guns are now "training weapons"(low damage weapons) enabling your Liberals to assault dozens of Conservatives without racking up murder charges and inciting SWAT Raids.
+
+!Expanded Appropriate Weapons for Armor now that Conservatives use more guns.
+
+!Liberal Spending Expansion: Expanded what Gangsters/Mercenaries can sell. Specifically: EVERYTHING.
+Pawnshop sells all ammo
+Department store sells gasoline now
+
+!Throwing Knives added: Like Molotovs but they don't murder your squad with fire. Throwing Knives can be thrown(with ammo) or used as regular knives(without ammo), backstab included. Molotov size also decreased to 5 since it's a small bottle, and Molotov-using Liberals can now take hostages. Buy them at the Pawn Shop.
+
+!Grenades also added. More powerful Molotovs without the chance of fire, only the chance of debris.
+
+!Several "harmless" weapons no longer protect against kidnapping now, such as the Syringe.
+
+!M4 Carbine size decreased to 10(can now be hidden in a Trenchcoat) since it's a tinier M16.
+
+!Musicians might spawn with Guitars
+
+!Heavy Combat Armor has higher base power AND an added assault/drug bonus. It's fucking heavy combat armor, how is that not scaring the shit out of the hostage? Oh, and Deathsquad Armor now has a drug bonus.
+
+!Katana/Sword is now size 10, allowing it to be hidden under a trenchcoat.
+
+!.45 "Clip" size changed to 12 for slightly more realism and to balance increased .45 dmg
+
+!Tommy Gun added. a .45 SMG with a 50-round mag. Reduced accuracy bonus (1 vs 2).
+
+!Added "No Damage Reduction to Limbs Chance" to Flamethrower (33%, same as Molotov).
+
+!Added Auto 9mm, .45 Machine Pistol, .45-70 Govt Revolver, .454 Revolver, .357, M72 LAW, and Anti-Tank Rifle.
+
+!Multi-hit property added to several other melee weapons
+
+!Flamethrowers are legal until Gun Laws become Liberal. A Cracked.com article says that "There are currently no federal laws governing or restricting the ownership of flame-throwing devices... Only in America would a device capable of launching rivers of fire at people be less regulated than marijuana."
+
+!Disguised weapons added. Briefcase SMGs, Sword Canes, Umbrella Rifles, Book Pistols.
+
+!Akimbo Beretta 92 added. Feel like you're in a John Woo film!
